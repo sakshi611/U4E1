@@ -1,0 +1,5 @@
+
+* The String pool and multi-threading  can not be possible if string is mutable in java.
+
+String: Immutable, Thread-Safe, Synchronized
+String Builder: Mutable, Not Thread-Safe,Not Synchronized
